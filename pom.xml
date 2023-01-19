@@ -54,6 +54,8 @@
 				<configuration>
 					<dependencyTrackBaseUrl>http://localhost:8081</dependencyTrackBaseUrl>
 					<apiKey>s8YilmLwWFKziH71rdY1EmsXmG9FEtk5</apiKey>
+					<projectName>MyTestProject</projectName>
+					<projectVersion>1.0.0</projectVersion>
 				</configuration>
 			</plugin>
 		</plugins>
