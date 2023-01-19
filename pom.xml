@@ -52,7 +52,7 @@
 				<version>1.4.0</version>
 				<inherited>false</inherited>
 				<configuration>
-					<dependencyTrackBaseUrl>http://localhost:8081/</dependencyTrackBaseUrl>
+					<dependencyTrackBaseUrl>http://localhost:8081</dependencyTrackBaseUrl>
 					<apiKey>s8YilmLwWFKziH71rdY1EmsXmG9FEtk5</apiKey>
 				</configuration>
 			</plugin>
